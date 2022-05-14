@@ -10,7 +10,8 @@ Contacts/ Information List
 
 ## C语言实现
 - 结构体类型：
-  - struct PeoInfo、struct Contact
+  - struct PeoInfo
+  - struct Contact
 - 枚举类型：
   - enum Option
 - 自定义函数：
