@@ -8,7 +8,13 @@ Contacts/ Information List
 
 能够根据姓名排序，并显示通讯录信息。
 
+##【新增】动态版通讯录
+通讯录初始化存储30个用户信息，若空间不够则每次扩容20个。
+
 ## C语言实现
+- 动态内存管理：
+  - malloc() / free()
+  - realloc()
 - 结构体类型：
   - struct PeoInfo
   - struct Contact
